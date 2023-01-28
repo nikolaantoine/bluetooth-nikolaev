@@ -54,7 +54,6 @@ public class MainActivity extends AppCompatActivity {
         listView.setAdapter(arrayAdapter);
     }
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -72,6 +71,4 @@ public class MainActivity extends AppCompatActivity {
             }
         }
     }
-
-
 }
